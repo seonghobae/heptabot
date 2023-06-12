@@ -1,5 +1,5 @@
 spacy==1.9.0
-transformers==4.1.1
+transformers==4.30.0
 ipywidgets
 nltk
 pandas
