@@ -1,6 +1,6 @@
 errant==2.1.0
 func_timeout==4.3.5
-torch==1.5.1
+torch==1.13.1
 numpy==1.16.1
 catboost==0.26
 sentence_transformers==0.3.6
